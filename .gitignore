@@ -1,0 +1,28 @@
+# build
+/out/
+/build/
+*.zip
+*.pdb
+*.exe
+*.obj
+*.o
+
+# recompiled code, derived from the game
+/generated/
+
+# the player's own game files
+/assets/
+
+# runtime files
+settings.toml
+/logs/
+/captures/
+/cache/
+/shader_cache/
+/textures/
+/CrashDumps/
+
+# editors
+.vs/
+.vscode/
+.idea/
