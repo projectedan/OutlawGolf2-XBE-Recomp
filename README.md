@@ -22,6 +22,8 @@ This port was created using the [Xbox XBE Recomp](https://github.com/TGP482/Xbox
 ### Quick Menu
 Press **F1**, or **Back + Start** on a controller, to open it over the game. Changes apply at once and are saved.
 
+![Quick Menu showing display settings](docs/images/quick-menu.webp)
+
 - **Display** - Window mode (fullscreen, borderless or windowed), resolution (Classic, Desktop, 1440p, 4K, 5K and 8K), V-Sync and frame rate (60, or the console's 30).
 - **Graphics** - Anti-aliasing (FXAA or SMAA), texture filtering up to 16x, and grass distance up to 6x.
 - **Effects** - Bloom and depth of field, each with its own strength.
