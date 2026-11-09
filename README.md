@@ -35,6 +35,9 @@ Press **F1**, or **Back + Start** on a controller, to open it over the game. Cha
 The game runs at a native 60 frames per second, with the game's simulation running 60 times a second too, so motion is smooth rather than repeated. Cameras, the course intro's flyover, the golf cart and the beating minigame were adjusted to keep their console speed at 60.
 
 ### Graphics
+
+![Teeing off on Crusty Leaf with long grass, bloom and depth of field](docs/images/graphics.webp)
+
 - **Higher resolutions** - From the console's own 480 lines up to 8K, scaled to your screen.
 - **Grass distance** - Tall grass reaches up to six times further from the camera. In views that show a lot of ground, such as the golf cart's, the far edge pulls in a little so the grass nearest the camera is never lost.
 - **Bloom and depth of field** - Bloom stays clear of the golfer and the shot preview arc, without halos.
