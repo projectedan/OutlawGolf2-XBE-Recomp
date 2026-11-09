@@ -57,6 +57,8 @@ Supports Xbox, PlayStation and Switch controllers, with hot plugging and rumble.
   - Windows 10 64-bit
 - **GPU** with support for Direct3D 12
 
+Tested on Windows 11, and on a BC250 running SteamOS through PortProton. Steam Deck and other Linux hardware have not been tested.
+
 ## Known Issues
 
 - At 60 FPS the golf cart's steering is a little quicker than on the console. Set the frame rate to 30 in the Quick Menu for the console's handling.
