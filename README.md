@@ -29,6 +29,9 @@ Press **F1**, or **Back + Start** on a controller, to open it over the game. Cha
 - **Effects** - Bloom and depth of field, each with its own strength.
 
 ### 60 FPS
+
+![Course flyover at 60 FPS](docs/images/60fps.webp)
+
 The game runs at a native 60 frames per second, with the game's simulation running 60 times a second too, so motion is smooth rather than repeated. Cameras, the course intro's flyover, the golf cart and the beating minigame were adjusted to keep their console speed at 60.
 
 ### Graphics
